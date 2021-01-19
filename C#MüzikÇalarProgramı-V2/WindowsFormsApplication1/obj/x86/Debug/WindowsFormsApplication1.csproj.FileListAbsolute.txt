@@ -1,0 +1,26 @@
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Edip\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ÇART APP\Desktop\C#MüzikÇalarProgramı-V2\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
